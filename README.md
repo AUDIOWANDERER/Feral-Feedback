@@ -31,4 +31,4 @@ To Install from GitHub (recommended)
 Open Maiden on your norns.
 In the Maiden REPL, run:
 
-;install https://github.com/AUDIOWANDERER/Ball-O-rama
+;install https://github.com/AUDIOWANDERER/Feral-Feedback
