@@ -7,13 +7,7 @@ the noise performance every time the script
 is loaded. So, you have new sounds every time
 you play with Feral Feedback
 
-FERAL>>FEEDBACK
-Circuit bent noise simulator
  by (AW) @audiowanderer
-Script generate Random
- seed files when loading
-so... New noises every
- time you play with it
 
 CONTROLS
 E1: Vol>Saturation
