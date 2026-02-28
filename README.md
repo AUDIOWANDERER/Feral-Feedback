@@ -1,11 +1,4 @@
-Feral Feedback is a circuit bent noise simulator
-To create a wide range of unpredictable noises
-in the fashion of a noise jam played with 
-circuit bent devices.
-The script create new noise files as seed for
-the noise performance every time the script
-is loaded. So, you have new sounds every time
-you play with Feral Feedback
+Feral Feedback is a circuit bent noise machine simulator to create a wide range of unpredictable noises in the fashion of a noise jam played with circuit bent toy piano and other devices. The script create new noise files as seed for the noise performance every time the script is loaded so you have new sounds every time you play with Feral Feedback
 
  by (AW) @audiowanderer
 
